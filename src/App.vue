@@ -2,6 +2,7 @@
   <main>
     <div>
       <button v-on:click="increment">Click {{ state.count }}</button>
+      <h1>Hello</h1>
     </div>
   </main>
 </template>
