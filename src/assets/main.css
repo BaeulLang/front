@@ -1,0 +1,34 @@
+/* 공통 css 사항입니다 */
+@font-face {
+  font-family: 'HakgyoansimDunggeunmisoTTF-B';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-5@1.0/HakgyoansimDunggeunmisoTTF-B.woff2')
+    format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HakgyoansimDunggeunmisoTTF-R';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-5@1.0/HakgyoansimDunggeunmisoTTF-R.woff2')
+    format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'HakgyoansimDunggeunmisoTTF-R';
+}
+
+.logo {
+  height: 50px;
+}
+
+/* 헤더영역 입니다 */
+header {
+}
+
+/* 푸터영역 입니다 */
+footer {
+}
